@@ -1,0 +1,7 @@
+
+Preferences:
+favorite_film: Lord_of_the_rings
+favorite_serial: er
+favorite_dish: hamburger 
+favorite_season: spring 
+interesting_country: japan 
