@@ -1,0 +1,6 @@
+About))
+person_name:Ekaterina
+age: 32
+pet: 1 cat
+pets_name:Masya
+expecting_salary: 100000
